@@ -1,0 +1,285 @@
+Question 1
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+In _______, the bodies of the two loops are merged together to form a single loop provided that they do not make any references to each other
+Select one:
+
+a. Loop Unrolling 
+
+b. Loop Concatenation
+
+c. Strength Reduction
+
+d. Loop Jamming 
+Feedback
+Your answer is incorrect.
+The correct answer is: Loop Jamming 
+Question 2
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+In C++, which system - provided function is called when no handler is provided to deal with an exception?
+Select one:
+
+a. Abort()
+
+b. Kill()
+
+c. Terminate()
+
+d. Unexpected
+Feedback
+Your answer is incorrect.
+The correct answer is: Terminate()
+Question 3
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Which of the following is correct with respect to “Jump Statements” in C?
+Select one:
+
+a. Continue
+
+b. Goto
+
+c. Break
+
+d. All of the Mentioned
+Feedback
+Your answer is incorrect.
+The correct answer is: All of the Mentioned
+Question 4
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+The for loop
+
+for (i=0; i<10; ++i)
+printf("%d", i&1);
+
+Select one:
+
+a. 0101010101
+
+b. 000000000
+
+c. 111111111
+
+d. 0111111111
+Feedback
+Your answer is incorrect.
+The correct answer is: 0101010101
+Question 5
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+In simple chaining, what data structure is appropriate?
+
+Select one:
+
+a. Binary Trees
+
+b. Single Linked List
+
+c. Circular Linked List
+
+d. Double Linked List
+Feedback
+Your answer is incorrect.
+The correct answer is: Double Linked List
+Question 6
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+In simple uniform hashing, what is the search complexity?
+Select one:
+
+a. O(1)
+
+b. O(n)
+
+c. O(n log n)
+
+d. O(logn)
+Feedback
+Your answer is incorrect.
+The correct answer is: O(1)
+Question 7
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+A hash table of length 10 uses open addressing with hash function h(k)=k mod 10, and linear probing. After inserting 6 values into an empty hash table, the table is as shown below.
+Select one:
+
+a. 33,46,34,42,23,52
+
+b. 46,34,42,23,52,33
+
+c. 42,23,52,33 34,46
+
+d. 42,23,52,33,46,34
+Feedback
+Your answer is incorrect.
+The correct answer is: 46,34,42,23,52,33
+Question 8
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Given a hash table T with 25 slots that stores 2000 elements, the load factor α for T is __________
+Select one:
+
+a. 1.25
+
+b. 80
+
+c. 8000
+
+d. 0.0125
+Feedback
+Your answer is incorrect.
+The correct answer is: 80
+Question 9
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+ Which of these method of class String is used to extract more than one character at a time a String object?
+
+Select one:
+
+a. Getchars()
+
+b. getChars()
+
+c. GetChars()
+
+d. getchars()
+Feedback
+Your answer is incorrect.
+The correct answer is: getChars()
+Question 10
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Which of these methods can be used to convert all characters in a String into a character array?
+
+Select one:
+
+a. charAt()
+
+b. both getChars() & charAt()
+
+c.  all of the mentioned
+
+d. both toCharArray() & getChars()
+Feedback
+Your answer is incorrect.
+The correct answer is: both toCharArray() & getChars()
+Question 11
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+ Which of these keywords is used to manually throw an exception?
+
+Select one:
+
+a. Catch
+
+b. Throw
+
+c. Finally
+
+d. Try
+Feedback
+Your answer is incorrect.
+The correct answer is: Throw
+Question 12
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+bin1=1010 bin2=1000
+READ input bin1,input bin2
+INITIALIZE i equals 0,rem equals 0
+INITIALIZE array ar of size 20
+While(bin1!=0 or bin2!=0)
+sum[i++]=(bin1%10+bin2%10+rem)%2
+rem=(bin1%10+bin2%10+rem)/2
+bin1=bin1/10
+bin2=bin2/10
+EndWhile
+If(rem!=0)
+sum[i++]=rem–i
+Endif
+While(i>=0)
+Print sum[i–]
+EndWhile
+Select one:
+
+a. 10011
+
+b. 0010
+
+c. 10010
+
+d. 0000
+Feedback
+Your answer is incorrect.
+The correct answer is: 10010
+Question 13
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Read array a[5]={5,1,15,20,25}
+Initialize i, j, m
+i=++a[1]
+j=a[1]++
+m=a[i++]
+Write i, j, m
+Select one:
+
+a. 2,1,15
+
+b. 2,3,20
+
+c. 1,2,5
+
+d. 3,2,15
+Feedback
+Your answer is incorrect.
+The correct answer is: 3,2,15
+Question 14
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Read count=5
+Set x to 0;
+While(x < count)
+Set even to even + 2
+x = x + 1
+write even
+Select one:
+
+a. 2,4,6,8
+
+b. 0,2,4,6,8
+
+c. 2,4,6,8,10
+
+d. 0,2,4,6
+Feedback
+Your answer is incorrect.
+The correct answer is: 0,2,4,6,8
