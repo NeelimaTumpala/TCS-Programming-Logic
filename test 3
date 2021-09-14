@@ -1,0 +1,308 @@
+Question 1
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Talika wants to implement heterogeneous linked list for her project. Which of the following will help her do the same.
+Select one:
+
+a. Overloading
+
+b. Void Pointer
+
+c. Decision Making
+
+d. None
+Feedback
+Your answer is incorrect.
+The correct answer is: Void Pointer
+Question 2
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+In C, if you pass an array as an argument to a function, what actually gets passed?
+Select one:
+
+a. Value element of the array
+
+b. First Element of the Array
+
+c. Address of the last element in the Array
+
+d. Base Address of the array
+Feedback
+Your answer is incorrect.
+The correct answer is: Base Address of the array
+Question 3
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Can we change the starting index of an array from 0 to 1 in any way.?
+Select one:
+
+a. Yes. Through Call by Value.
+
+b. None
+
+c. Yes. Through pointers.
+
+d. Yes. Through Call by Reference.
+Feedback
+Your answer is incorrect.
+The correct answer is: None
+Question 4
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+What is the function used to allocate memory to an array at run time without initializing array elements.?
+Select one:
+
+a. calloc()
+
+b. palloc()
+
+c. kalloc()
+
+d. malloc()
+Feedback
+Your answer is incorrect.
+The correct answer is: malloc()
+Question 5
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+What is the prototype of the default constructor of this Java class?
+
+    public class prototype { }
+Select one:
+
+a.  public prototype( )
+
+b. prototype(void)
+
+c.  prototype( )
+
+d. public prototype(void)
+Feedback
+Your answer is incorrect.
+The correct answer is:  public prototype( )
+Question 6
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+What will be the error in the following Java code?
+
+    byte b = 50;
+    b = b * 50;
+
+Select one:
+
+a.  b cannot contain value 50
+
+b. * operator has converted b * 50 into int, which can not be converted to byte without casting
+
+c.  No error in this code
+
+d. b cannot contain value 100, limited by its range
+Feedback
+Your answer is incorrect.
+The correct answer is: * operator has converted b * 50 into int, which can not be converted to byte without casting
+Question 7
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+ Literals in java must be appended by which of these?
+Select one:
+
+a. L
+
+b. D
+
+c. L and I
+
+d. I
+Feedback
+Your answer is incorrect.
+The correct answer is: L and I
+Question 8
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+User perform following type of operation on stack of Size 5:-
+push(5)
+push(7)
+pop()
+push(9)
+pop()
+pop()
+push(9)\
+pop()
+push(1)
+push(5)
+pop()
+pop()
+push(4)
+pop()
+pop()
+push(6)
+So which of the following statement is true for the stack
+Select one:
+
+a. None
+
+b. Process goes smoothly
+
+c. Underflow Occurs
+
+d. Overflow Occurs
+Feedback
+Your answer is incorrect.
+The correct answer is: Underflow Occurs
+Question 9
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+ In which order the elements of the stack are removed.
+
+
+Select one:
+
+a.
+Hierarchical
+
+b. Reverse
+
+c. Sequential
+
+d. Alternative
+Feedback
+Your answer is incorrect.
+The correct answer is: Reverse
+Question 10
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Which of the following is an application of the stack
+
+Select one:
+
+a. Tower of hanoi
+
+b. Finding factorial
+
+c. Infix to postfix
+
+d. All of above
+Feedback
+Your answer is incorrect.
+The correct answer is: All of above
+Question 11
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+ Postfix of following expression
+
+2*3+9-6
+
+
+Select one:
+
+a. 923+-6+
+
+b. None of the Above
+
+c. 923*+6-
+
+d. 23*9+6-
+Feedback
+Your answer is incorrect.
+The correct answer is: None of the Above
+Question 12
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+What will be the output of the given pseudocode for s1=3 and e1=6?
+READ s1,e1
+FUNCTION num(INT s1,INT e1)
+IF(s1==e1)
+RETURN s1
+ELSE
+RETURN s1+num(s1+1,e1)
+ENDIF
+END FUNCTION
+Select one:
+
+a. 15
+
+b. 6
+
+c. 12
+
+d. 18
+Feedback
+Your answer is incorrect.
+The correct answer is: 18
+Question 13
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+What will be the value of sum if num=187?
+Read num
+iter=0,sum=0
+Function Star(int num)
+while(num>0)
+rem=num%l0
+po=8^iter
+sum=sum+po*rem
+iter++
+num=num/10
+End While
+Return sum;
+End Function
+
+Select one:
+
+a. 187
+
+b. 87
+
+c. 71
+
+d. 135
+Feedback
+Your answer is incorrect.
+The correct answer is: 135
+Question 14
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Integer n
+for (n = 6; n <> 0; n–)
+Print n
+n = n-1
+end for
+Select one:
+
+a. 6
+
+b. 6 5 4 3 2 1
+
+c. Infinite Loop
+
+d.  6 4 2
+Feedback
+Your answer is incorrect.
+The correct answer is:  6 4 2
