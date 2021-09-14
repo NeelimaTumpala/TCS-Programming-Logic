@@ -1,0 +1,283 @@
+Question 1
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Till the array elements are not given any specific value, they are supposed to contain all ____________  ?
+Select one:
+
+a. Garbage Value
+
+b. One
+
+c. zero
+
+d. None 
+Feedback
+Your answer is incorrect.
+The correct answer is: Garbage Value
+Question 2
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Which one of these is equivalent to ?
+int fun(int arr[])
+
+Select one:
+
+a. None of these
+
+b. int fun(arr)
+
+c. int fun(int s[])
+
+d. int fun(int arr[5])
+Feedback
+Your answer is incorrect.
+The correct answer is: None of these
+Question 3
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+In 2 Dimensional Array, it is necessary to mention  _______ dimension ?
+Select one:
+
+a. First
+
+b. Second
+
+c. None of These
+
+d. Both
+Feedback
+Your answer is incorrect.
+The correct answer is: Second
+Question 4
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+An array can be passed to a function by __________
+Select one:
+
+a. None
+
+b. Call by Value
+
+c. Call by value and Call by Reference
+
+d. Call by reference 
+Feedback
+Your answer is incorrect.
+The correct answer is: Call by reference 
+Question 5
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+ Which component is used to compile, debug and execute java program?
+Select one:
+
+a. JVM
+
+b. JIT
+
+c. JRE
+
+d. JDK
+Feedback
+Your answer is incorrect.
+The correct answer is: JDK
+Question 6
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+What is the stored in the object obj in following lines of Java code?
+   box obj;
+
+Select one:
+
+a. NULL
+
+b. Garbage
+
+c. Any arbitrary pointer
+
+d. Memory address of allocated memory of object
+Feedback
+Your answer is incorrect.
+The correct answer is: NULL
+Question 7
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Which of the following is a valid declaration of an object of class Box?
+Select one:
+
+a. new Box obj;
+
+b. Box obj = new Box();
+
+c. obj = new Box();
+
+d. Box obj = new Box;
+Feedback
+Your answer is incorrect.
+The correct answer is: Box obj = new Box();
+Question 8
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+An Algorithm that calls itself directly or indirectly is known as 
+
+Select one:
+
+a. Traversal Algorithm
+
+b. Polish Notation
+
+c. Recursion
+
+d. Sub Alogorithm
+Feedback
+Your answer is incorrect.
+The correct answer is: Recursion
+Question 9
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+A connected  graph T without any cycles is called
+
+Select one:
+
+a. A tree Graph 
+
+b. All the mentioned
+
+c. Free Tree
+
+d. A tree
+Feedback
+Your answer is incorrect.
+The correct answer is: All the mentioned
+Question 10
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Which of the following case does not exist in Complexity Theory
+Select one:
+
+a. Null Case
+
+b. Best Case
+
+c. Worst Case
+
+d. Average Case
+Feedback
+Your answer is incorrect.
+The correct answer is: Null Case
+Question 11
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+In Linked Lists there are no NULL links in
+
+Select one:
+
+a. Single Linked List
+
+b. Circular Linked List
+
+c. Double Linked List
+
+d. None of above
+Feedback
+Your answer is incorrect.
+The correct answer is: Circular Linked List
+Question 12
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Integer a,b,c,d
+Set a=14,b=15,c=16
+If(a>6)
+b=c-a
+if(a>c)
+d=b+c
+else
+d=b-c
+else
+d=a+b+c-3
+print d
+Select one:
+
+a. 29
+
+b. 18
+
+c. -14
+
+d. 31
+Feedback
+Your answer is incorrect.
+The correct answer is: -14
+Question 13
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Integer n,beg,end
+Set beg=5,end=7,sum=0
+If(beg>end)
+Print sum+1
+Else
+For(n=end;n>=beg;n=n-1)
+Sum=sum+n
+N=n-1
+End for loop
+Print n
+Select one:
+
+a. 3
+
+b. 4
+
+c. 6
+
+d. 9
+Feedback
+Your answer is incorrect.
+The correct answer is: 3
+Question 14
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Read array a[5]={5,1,15,20,25}
+Initialize i, j, m
+i=++a[1]
+j=a[1]++
+m=a[i++]
+Write i, j, m
+Select one:
+
+a. 3, 2, 15
+
+b. 2, 3, 20
+
+c. 2, 1, 15
+
+d. 1, 2, 5
+Feedback
+Your answer is incorrect.
+The correct answer is: 3, 2, 15
