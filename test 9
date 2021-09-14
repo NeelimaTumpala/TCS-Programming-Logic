@@ -1,0 +1,289 @@
+Question 1
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Which keyword can be used for coming out of recursion ?
+
+Select one:
+
+a. Exit
+
+b. break
+
+c. Both return and break
+
+d. Return
+Feedback
+Your answer is incorrect.
+The correct answer is: Return
+Question 2
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Which keyword is used to prevent any changes in the variable within a C program?
+Select one:
+
+a. Volatile
+
+b. Immutable
+
+c. const
+
+d. mutable
+Feedback
+Your answer is incorrect.
+The correct answer is: const
+Question 3
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Which of the following cannot be used as LHS of the expression for (exp1 ;exp2 ; exp3)?
+
+Select one:
+
+a. Function
+
+b. Variable
+
+c. Type def
+
+d. Macros
+Feedback
+Your answer is incorrect.
+The correct answer is: Macros
+Question 4
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Which header file is required to use file I/O operations ?
+Select one:
+
+a. None
+
+b. <fstream>
+
+c. <istream>
+
+d. <iostream>
+Feedback
+Your answer is incorrect.
+The correct answer is: <fstream>
+Question 5
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+
+ From the given expression tree, identify the postfix expression.
+Select one:
+
+a. T(n)=T(n/2)+k, K is constant
+
+b. T(n)=T(n/2)+log n
+
+c. T=T(n/2)+n
+
+d. T=2T(n/2)+k , k is constant
+Feedback
+Your answer is incorrect.
+The correct answer is: T(n)=T(n/2)+k, K is constant
+Question 6
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+The maximum number of nodes at any level of a tree is
+Select one:
+
+a. 2n
+
+b. n
+
+c. log n
+
+d. n log n
+Feedback
+Your answer is incorrect.
+The correct answer is: 2n
+Question 7
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Which of the following is not a height balanced tree ?
+
+Select one:
+
+a. Splay Tree
+
+b. AVL
+
+c. Binary Heap Tree
+
+d. BST
+Feedback
+Your answer is incorrect.
+The correct answer is: BST
+Question 8
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Which traversal have a same sequence of the nodes name  for both of the trees..?
+Select one:
+
+a. Post order and preorder
+
+b. Preorder and preorder
+
+c. Post Order and inorder
+
+d. Postorder  and postorder
+Feedback
+Your answer is incorrect.
+The correct answer is: Post Order and inorder
+Question 9
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Which of this method can be used to make the main thread to be executed last among all the threads?
+
+Select one:
+
+a. Call()
+
+b. Stop()
+
+c. Join()
+
+d. Sleep()
+Feedback
+Your answer is incorrect.
+The correct answer is: Sleep()
+Question 10
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+What is the default value of priority variable MIN_PRIORITY AND MAX_PRIORITY?
+Select one:
+
+a. 1 and 10
+
+b. 0 and 256
+
+c. 0 and 1
+
+d. 1 and 10
+Feedback
+Your answer is incorrect.
+The correct answer is: 1 and 10
+Question 11
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Which of these method is used to explicitly set the priority of a thread?
+Select one:
+
+a. makePriority()
+
+b. make()
+
+c.  set()
+
+d. setPriority()
+Feedback
+Your answer is incorrect.
+The correct answer is: setPriority()
+Question 12
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+What is the output of the given pseudocode for a=100?
+START
+Function cont(int a)
+if(a==0)
+return 0;
+else
+return (a%10+2*cont(a/10));
+Endif
+EndFunction
+End
+Select one:
+
+a. 6
+
+b. 4
+
+c. 2
+
+d. 1
+Feedback
+Your answer is incorrect.
+The correct answer is: 4
+Question 13
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+FUNCTION ch(input num){
+INITIALIZE r_num=0, r
+if(num!=0)
+r=num%10
+r_num=r_num*10+r
+ch(num/10)
+ENDIF
+return r_num
+ENDFUNCTION
+FUNCTION main()
+int num, r_num;
+READ num equals to 142
+r_num = ch(num);
+if(num==r_num)
+WRITE ”YES”;
+else
+WRITE “NO”;
+Select one:
+
+a. No
+
+b. 141
+
+c. 241
+
+d. Yes
+Feedback
+Your answer is incorrect.
+The correct answer is: No
+Question 14
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Find output of given pseudocode for n=5?
+Function Sum(int num) (<> not equals to)
+If(num<>0)
+Return num+num*sum(num-1)
+Else
+Return num
+Endif
+Endfunction
+Select one:
+
+a. 256
+
+b. 325
+
+c. 188
+
+d. 163
+Feedback
+Your answer is incorrect.
+The correct answer is: 325
