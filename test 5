@@ -1,0 +1,288 @@
+Question 1
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+What does the following declaration mean?
+int (*ptr)[10];
+
+Select one:
+
+a. ptr is a pointer to array
+
+b. ptr is an array of 10 integers.
+
+c. ptr is a pointer to an array of 10 integers
+
+d. None
+Feedback
+Your answer is incorrect.
+The correct answer is: ptr is a pointer to an array of 10 integers
+Question 2
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Which of the following statements should be used to obtain a remainder after dividing 3.14 by 2.1?
+Select one:
+
+a. rem=3.14%2.1
+
+b. rem=modf,(3.14,2.1);
+
+c. None 
+
+d. rem=fmod,(3.14,2.1);
+Feedback
+Your answer is incorrect.
+The correct answer is: rem=fmod,(3.14,2.1);
+Question 3
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+The value obtained in the function is given back to main by using ________ keyword?
+Select one:
+
+a. New
+
+b. Void
+
+c. Static
+
+d. Return 
+Feedback
+Your answer is incorrect.
+The correct answer is: Return 
+Question 4
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+What is the return-type of the function sqrt() ?
+Select one:
+
+a. Float
+
+b. Double
+
+c. Int
+
+d. Volatile
+Feedback
+Your answer is incorrect.
+The correct answer is: Double
+Question 5
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Which of the following data structure is more appropriate to represent a heap?
+Select one:
+
+a. Two- Dimensional Array
+
+b. LinkedList
+
+c. Double Linked List
+
+d. Linear Array
+Feedback
+Your answer is incorrect.
+The correct answer is: Linear Array
+Question 6
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Minimum number of fields in each node of a doubly linked list is ____
+Select one:
+
+a. 1
+
+b. 2
+
+c. 3
+
+d. 4
+Feedback
+Your answer is incorrect.
+The correct answer is: 3
+Question 7
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+A graph is a tree if and only if graph is
+Select one:
+
+a.  Contains no cycles
+
+b.  Completely connected
+
+c. Contains no cycles
+
+d. Planar
+Feedback
+Your answer is incorrect.
+The correct answer is: Contains no cycles
+Question 8
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+A graph in which all vertices have equal degree is known as
+Select one:
+
+a. Simple graph
+
+b. Regular graph
+
+c. Multi graph
+
+d. Complete graph
+Feedback
+Your answer is incorrect.
+The correct answer is: Complete graph
+Question 9
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+ What is the process of defining more than one method in a class differentiated by method signature?
+Select one:
+
+a. Function doubling
+
+b. None of the mentioned
+
+c. Function overriding
+
+d. Function overloading
+Feedback
+Your answer is incorrect.
+The correct answer is: Function overloading
+Question 10
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Which of the following is a method having same name as that of it’s class?
+Select one:
+
+a. Class
+
+b. Delete
+
+c. Finalize
+
+d. Constructor
+Feedback
+Your answer is incorrect.
+The correct answer is: Constructor
+Question 11
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+ What will be the output of the following Java program?
+    class selection_statements 
+    {
+        public static void main(String args[])
+        {
+            int var1 = 5; 
+            int var2 = 6;
+            if ((var2 = 1) == var1)
+                System.out.print(var2);
+            else 
+                System.out.print(++var2);
+        } 
+    }
+
+
+Select one:
+
+a. 1
+
+b. 4
+
+c. 2
+
+d. 3
+Feedback
+Your answer is incorrect.
+The correct answer is: 2
+Question 12
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Function fun(){
+Input num=40
+Return num – –
+}
+Function main()
+{
+for(fun() ; fun() ; fun()) {
+print fun();
+}
+Predict the output.
+Select one:
+
+a. 38 35 32  26 23 20 17 14 11 8 5 2
+
+b. 38 35 32 29 26 2 20 17 14 11 8 5 2
+
+c. 38 35 32 29 26 23 20 17 14 11 8 5 423
+
+d. 38 35 32 29 26 23 20 17 14 11 8 5 2
+Feedback
+Your answer is incorrect.
+The correct answer is: 38 35 32 29 26 23 20 17 14 11 8 5 2
+Question 13
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Function main()
+char *s[] = { “knowledge”,”is”,”power”}
+char **p
+p = s
+print ++*p
+print *p++
+print ++*p
+Select one:
+
+a.
+is power
+
+
+b. knowledge nowledge s
+
+c.  knowledge knowledge is
+
+d. nowledge nowledge s
+Feedback
+Your answer is incorrect.
+The correct answer is: nowledge nowledge s
+Question 14
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+How many times the loop will execute?
+for X=5 to 1
+for Y=1 to X
+print Y
+Select one:
+
+a. 10
+
+b. 13
+
+c. 14
+
+d. 15
+Feedback
+Your answer is incorrect.
+The correct answer is: 15
