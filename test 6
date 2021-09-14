@@ -1,0 +1,286 @@
+Question 1
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Ashima wants to print a pattern which includes checking and changing a variables value iteratively She decides to use a loop/condition Which of the following options should she use such that the body of the loop/condition is executed atleast once whether the variable satisfies the entering condition or not?
+Select one:
+
+a. While Loop
+
+b. For Loop
+
+c. Do while Loop
+
+d. None
+Feedback
+Your answer is incorrect.
+The correct answer is: Do while Loop
+Question 2
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+The construct
+         then A
+   else 
+         then B”
+is for which of the following purposes?
+Select one:
+
+a. Iteration
+
+b. Decision Making
+
+c. OOPS
+
+d. Recursion
+Feedback
+Your answer is incorrect.
+The correct answer is: Decision Making
+Question 3
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Integer a =40, b =35, c=20, d =10
+Comment about the output of the following two statements •
+
+Print a*b/c-d
+Print a*b/(c-d)
+Comment about the output of the following two statements
+
+
+Select one:
+
+a. Differ by 50
+
+b. Same
+
+c. Differ by 80
+
+d. Differ by 160
+Feedback
+Your answer is incorrect.
+The correct answer is: Differ by 80
+Question 4
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+In recursion, the condition for which the function will stop calling itself is ____________
+Select one:
+
+a. Best Case Condition
+
+b. Best Case
+
+c. Worst Case
+
+d. None
+Feedback
+Your answer is incorrect.
+The correct answer is: Best Case Condition
+Question 5
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+The elements of a linked list are stored
+Select one:
+
+a. In a structure
+
+b.  In an array
+
+c. In contiguous memory locations
+
+d. Anywhere the computer has space for them
+Feedback
+Your answer is incorrect.
+The correct answer is: Anywhere the computer has space for them
+Question 6
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Which of the following data structure is required to convert arithmetic expression in infix to its equivalent postfix notation?
+Select one:
+
+a. Queue
+
+b. Stack
+
+c. Linked List
+
+d. None 
+Feedback
+Your answer is incorrect.
+The correct answer is: None 
+Question 7
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+To perform level-order traversal on a binary tree, which of the following data structure will be required?
+Select one:
+
+a. Queue
+
+b. Stack
+
+c. Linked List
+
+d. Array
+Feedback
+Your answer is incorrect.
+The correct answer is: Queue
+Question 8
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+A dequeue operation removes an element
+Select one:
+
+a. From the front of the queue
+
+b. From any place in the queue
+
+c.  From the rear of the queue
+
+d.  None of above
+Feedback
+Your answer is incorrect.
+The correct answer is: From the front of the queue
+Question 9
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+ Which of this keyword can be used in a subclass to call the constructor of superclass?
+Select one:
+
+a. extent
+
+b. Super
+
+c. extends
+
+d. this
+Feedback
+Your answer is incorrect.
+The correct answer is: Super
+Question 10
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Which of these is correct way of calling a constructor having no parameters, of superclass A by subclass B?
+Select one:
+
+a. Super();
+
+b. superclass.();
+
+c. super(void);
+
+d. super.A();
+Feedback
+Your answer is incorrect.
+The correct answer is: Super();
+Question 11
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Which of these keywords can be used to prevent Method overriding?
+
+Select one:
+
+a. Constant
+
+b. protected
+
+c. static
+
+d. Final
+Feedback
+Your answer is incorrect.
+The correct answer is: Final
+Question 12
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Function foo(int* a, int* b)
+sum = *a + *b
+*b = *a
+RETURN *a = sum – *b
+Function main()
+int i = 0, j = 1, k = 2, l;
+l = i++ OR foo(&j, &k)
+print(i, j, k, l)
+Select one:
+
+a. 1 2 1 1
+
+b. 1 2 2 1
+
+c. 1 1 2 1
+
+d. 1 2 2 2
+Feedback
+Your answer is incorrect.
+The correct answer is: 1 2 1 1
+Question 13
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+READ m = 10
+Initialize n & n1
+n = m++
+n1 = ++m
+n–
+–n1
+n -= n1
+Write n
+Select one:
+
+a. 1
+
+b. None
+
+c. -2
+
+d. 0
+Feedback
+Your answer is incorrect.
+The correct answer is: -2
+Question 14
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Function f(int* p, int m)
+m = m – 5
+*p = *p – m
+return;
+EndFunction
+Function main()
+Input i=10, j=5
+f(&i, j)
+print i+j
+Select one:
+
+a. 10
+
+b. 5
+
+c. 15
+
+d. 25
+Feedback
+Your answer is incorrect.
+The correct answer is: 15
