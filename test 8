@@ -1,0 +1,282 @@
+Question 1
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+puts function adds newline character
+
+Select one:
+
+a. Undefined Behaviour
+
+b. False
+
+c. Depends on the standard
+
+d. True
+Feedback
+Your answer is incorrect.
+The correct answer is: True
+Question 2
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+fseek() should be preferred over rewind() mainly because
+Select one:
+
+a. All of the mentioned
+
+b. rewind() may  fail for large files
+
+c. rewind() doesn't work for empty files 
+
+d.
+In  rewind there is no way to check if the operations completed successfully 
+Feedback
+Your answer is incorrect.
+The correct answer is:
+In  rewind there is no way to check if the operations completed successfully 
+Question 3
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+The value stored in the CPU register can always be accessed faster than that stored in memory.
+(ii) A register storage class variable will always be stored in a CPU register.
+Select one:
+
+a. Only 2 is correct
+
+b. Only 1 is correct
+
+c. None
+
+d. Both are correct
+Feedback
+Your answer is incorrect.
+The correct answer is: Only 1 is correct
+Question 4
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Which is not a storage class?
+Select one:
+
+a. Extern
+
+b. Struct
+
+c. Auto
+
+d. Static
+Feedback
+Your answer is incorrect.
+The correct answer is: Struct
+Question 5
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Convert Infix to Postfix
+(A+B) + C
+
+Select one:
+
+a. AB+C+
+
+b. A+BC+
+
+c. ABC++
+
+d. AB++C
+Feedback
+Your answer is incorrect.
+The correct answer is: AB+C+
+Question 6
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+A circular queue is implemented using array of size 10. The array index starting with 0 , front is 4 and rare is 9. The insertion of next element takes place at which index of an array.
+Select one:
+
+a. 5
+
+b. 9
+
+c. 7
+
+d. zero(0)
+Feedback
+Your answer is incorrect.
+The correct answer is: zero(0)
+Question 7
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+ In which expression the operator comes after the operant.
+
+
+Select one:
+
+a. Postfix
+
+b. None
+
+c. Infix
+
+d. Prefix
+Feedback
+Your answer is incorrect.
+The correct answer is: Postfix
+Question 8
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+What is the result of following operation:-
+Top(Push(S,A))
+
+Select one:
+
+a. A
+
+b. Null
+
+c. S
+
+d. None
+Feedback
+Your answer is incorrect.
+The correct answer is: A
+Question 9
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Which of the following keywords is used for throwing exception manually?
+Select one:
+
+a. Finally
+
+b. try
+
+c. Catch
+
+d. Throw
+Feedback
+Your answer is incorrect.
+The correct answer is: Throw
+Question 10
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Which of the following should be true of the object thrown by a thrown statement?
+Select one:
+
+a. Should be assignable to String type
+
+b. Should be assignable to Throwable type
+
+c. Should be assignable to Exception type
+
+d. Should be assignable to Error type
+Feedback
+Your answer is incorrect.
+The correct answer is: Should be assignable to Throwable type
+Question 11
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+What exception thrown by parseInt() method?
+Select one:
+
+a. ArithmeticException
+
+b. ClassNotFoundException
+
+c. NullPointerException
+
+d. NumberFormatException
+Feedback
+Your answer is incorrect.
+The correct answer is: NumberFormatException
+Question 12
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Integer n
+for (n = 6; n <> 0; n–)
+Print n
+n = n-1
+end for
+Select one:
+
+a.  6
+
+b. Infinite Loop
+
+c. 6 5 4 3 2 1
+
+d. 6 4 2
+Feedback
+Your answer is incorrect.
+The correct answer is: 6 4 2
+Question 13
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+READ INTEGER input a = 10 & b = 7.
+Function(input a, input b)
+If(a < b)
+return function(b, a)
+elseif(b != 0)
+return (a + function(a,b-1))
+else
+return 0
+Select one:
+
+a. 70
+
+b. 17
+
+c. 701
+
+d. 107
+Feedback
+Your answer is incorrect.
+The correct answer is: 70
+Question 14
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+What will be the value of t if first=0 ,second= 999?
+READ first & second
+Function Hello(first,second)
+hey = 0
+while (second!= 0)
+temporary = temporary + first
+second=second-1
+End While
+return temporary;
+End Function
+Select one:
+
+a. 333
+
+b. 0
+
+c. 999
+
+d. Infinite Loop
+Feedback
+Your answer is incorrect.
+The correct answer is: 0
