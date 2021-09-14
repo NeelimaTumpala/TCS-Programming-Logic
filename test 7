@@ -1,0 +1,280 @@
+Question 1
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Choose the recursive formula for the Fibonacci series.(n>=1)
+
+Select one:
+
+a. F(n) = F(n) + F(n+1)
+
+b. F(n) = F(n-1) + F(n-2)
+
+c. F(n) = F(n-1) – F(n-2)
+
+d. F(n) = F(n+1) + F(n+2)
+Feedback
+Your answer is incorrect.
+The correct answer is: F(n) = F(n-1) + F(n-2)
+Question 2
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+What is the length of the step in jump search?
+Select one:
+
+a. 1
+
+b. sqrt(n)
+
+c. n
+
+d. n/2
+Feedback
+Your answer is incorrect.
+The correct answer is: sqrt(n)
+Question 3
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Is there any difference in the speed of execution between linear serach(recursive) vs linear search(lterative)?
+Select one:
+
+a. Both Execute at same speed
+
+b. Linear Search (Recursive is faster
+
+c. Cant be said
+
+d. Linear Search (Iterative ) is faster
+Feedback
+Your answer is incorrect.
+The correct answer is: Linear Search (Iterative ) is faster
+Question 4
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+The array is as follows: 1,2,3,6,8,10. At what time the element 6 is found? (By using linear search(recursive) algorithm)
+Select one:
+
+a. 5th Call
+
+b. 6th Call
+
+c. 4th Call
+
+d. 3rd Call
+Feedback
+Your answer is incorrect.
+The correct answer is: 4th Call
+Question 5
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Which of these is supported by method overriding in Java?
+Select one:
+
+a.  Encapsulation
+
+b. Abstraction
+
+c. Polymorphism
+
+d. None of the mentioned
+Feedback
+Your answer is incorrect.
+The correct answer is: Polymorphism
+Question 6
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Which class allows parsing of command line arguments?
+Select one:
+
+a.  Command Line
+
+b. Input
+
+c. Args
+
+d.  JCommander
+Feedback
+Your answer is incorrect.
+The correct answer is:  JCommander
+Question 7
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+ Which annotation is used to represent command line input and assigned to correct data type?
+Select one:
+
+a. @Variable
+
+b. @Command Line
+
+c. @Parameter
+
+d. @Input
+Feedback
+Your answer is incorrect.
+The correct answer is: @Parameter
+Question 8
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+What Member function places a new node at the end of the linked list?
+
+Select one:
+
+a. Display Node
+
+b. Add node
+
+c. Append Node
+
+d. Struct Node
+Feedback
+Your answer is incorrect.
+The correct answer is: Add node
+Question 9
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Which of the following can a Dynamic Link Library contain?
+Select one:
+
+a. Code and data only
+
+b. Code data and resources
+
+c. only Code
+
+d. Code and resources only
+Feedback
+Your answer is incorrect.
+The correct answer is: Code data and resources
+Question 10
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Consider a linked list of n elements. What is the time taken to insert an element after an element pointed by some pointer?
+
+Select one:
+
+a. O(n)
+
+b. O(1)
+
+c. O(log2 n)
+
+d. O(nlog2 n)
+Feedback
+Your answer is incorrect.
+The correct answer is: O(1)
+Question 11
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+For a doubly linked list does the following segment of code removes the element pointed to by X , if it is assumed that X points to neither the first nor the last
+element in the list.
+X->prev->next = X->next;
+X->next->prev = X->prev; ?
+Select one:
+
+a. True
+
+b. False
+
+c. None
+
+d. Neither True nor False
+Feedback
+Your answer is incorrect.
+The correct answer is: True
+Question 12
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Sum of the first 10 multiples of 10.
+Integer i=0 //Statement 1
+Integer sum=0 //Statement 2
+While(i<=1000){ //Statement 3
+sum=sum+i //Statement 4
+—MISSING STATEMENT—
+}
+Print sum
+Identify the missing statement and the incorrect statement.
+Select one:
+
+a. i=10*i
+Statement 2
+
+b. .i=i+10
+Statement 3
+
+c. i=i+1
+Statement 4
+
+d. . i=5
+Statement 1
+Feedback
+Your answer is incorrect.
+The correct answer is: .i=i+10
+Statement 3
+Question 13
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Function main()
+char *s[] = { “knowledge”,”is”,”power”}
+char **p
+p = s
+print ++*p
+print *p++
+print ++*p
+Select one:
+
+a.  knowledge knowledge is
+
+b. is power
+
+c. knowledge nowledge s
+
+d. nowledge nowledge s
+Feedback
+Your answer is incorrect.
+The correct answer is: nowledge nowledge s
+Question 14
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+How many times the loop will execute?
+for X=5 to 1
+for Y=1 to X
+print Y
+Select one:
+
+a. 11
+
+b. 15
+
+c. 10
+
+d. 12
+Feedback
+Your answer is incorrect.
+The correct answer is: 15
