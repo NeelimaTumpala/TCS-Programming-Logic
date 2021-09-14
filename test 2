@@ -1,0 +1,296 @@
+Question 1
+Correct
+Mark 1.00 out of 1.00
+Not flaggedFlag question
+Question text
+What is the way to suddenly come out of or Quit any Loop in C Language.?
+Select one:
+
+a. break; Statement
+
+b. Quit;Statement
+
+c. Continue; statement
+
+d. leave; statement
+Feedback
+Your answer is correct.
+The correct answer is: break; Statement
+Question 2
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Choose a correct statement about a C Switch Construct.
+Select one:
+
+a. You can not use duplicate CASE Constants inside a Switch construct.
+
+b. All of the mentioned
+
+c. default case is optional inside switch.
+
+d. break; causes the control to exit the switch immediately and avoid fall down to other CASE statements.
+Feedback
+Your answer is incorrect.
+The correct answer is: All of the mentioned
+Question 3
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+What is the output of C Program with Functions.?
+
+int main()
+{
+
+    void show()
+    {
+        printf("HIDE");
+    }
+
+    show();
+    
+    return 0;
+}
+
+Select one:
+
+a. No Output
+
+b. HIDE
+
+c. Compile Error
+
+d. None
+Feedback
+Your answer is incorrect.
+The correct answer is: HIDE
+Question 4
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Arguments passed to a function in C language are called ___ arguments.
+Select one:
+
+a. Definite Arguments
+
+b. Actual Arguments
+
+c. Ideal Arguments
+
+d. Formal arguments
+Feedback
+Your answer is incorrect.
+The correct answer is: Actual Arguments
+Question 5
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+What will be the output of the following Java code snippet?
+class A
+{
+ 
+}
+ 
+enum Enums extends A
+{
+    ABC, BCD, CDE, DEF;
+}
+
+Select one:
+
+a. EnumNotDefined Exception
+
+b. It runs successfully
+
+c. Runtime Error
+
+d. Compilation Error
+Feedback
+Your answer is incorrect.
+The correct answer is: Compilation Error
+Question 6
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Which method returns the elements of Enum class?
+
+Select one:
+
+a. getEnumList()
+
+b. getEnums()
+
+c. getEnum()
+
+d. getEnumConstants()
+Feedback
+Your answer is incorrect.
+The correct answer is: getEnumConstants()
+Question 7
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Which of these operators is used to allocate memory to array variable in Java?
+Select one:
+
+a. alloc
+
+b. malloc
+
+c. new
+
+d. new malloc
+Feedback
+Your answer is incorrect.
+The correct answer is: new
+Question 8
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+Identify the data structure which allows deletions at both the ends of the list but insertion at only one end
+Select one:
+
+a. Priority Queue
+
+b. None of the above
+
+c. Input Restricted Dequeue 
+
+d. Output Restricted Dequeue 
+Feedback
+Your answer is incorrect.
+The correct answer is: Input Restricted Dequeue 
+Question 9
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+A Binary Tree Whose every node has either zero or two children is called 
+Select one:
+
+a. Complete Binary Tree
+
+b. Extended Binary Tree
+
+c. None of the above
+
+d. Binary Search Tree
+Feedback
+Your answer is incorrect.
+The correct answer is: Extended Binary Tree
+Question 10
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+The Depth of Complete Binary Tree is given by
+
+Select one:
+
+a. Dn=log2n
+
+b. Dn=n log2n+1
+
+c. Dn=n log2n
+
+d. Dn=log2n+1
+Feedback
+Your answer is incorrect.
+The correct answer is: Dn=log2n+1
+Question 11
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+In a graph if e=[u,v] ,Then U and V are called
+
+Select one:
+
+a. Adjacent nodes
+
+b. Neighbours
+
+c. All of the mentioned
+
+d. Endpoints of e
+Feedback
+Your answer is incorrect.
+The correct answer is: All of the mentioned
+Question 12
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+READ x =4, y = 0;
+READ z;
+z = (y++, y);
+WRITE z
+
+
+Select one:
+
+a. 0
+
+b. Compilation Error
+
+c. 1
+
+d. Undefined Behavior due to order of evaluation can be different.
+Feedback
+Your answer is incorrect.
+The correct answer is: 1
+Question 13
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+#include
+int main()
+{
+long double a;
+long double b;
+int arr[sizeof(!a+b)];
+printf(“%d”,sizeof(arr));
+}
+Select one:
+
+a. 32
+
+b. 64
+
+c. No Output
+
+d. Error
+Feedback
+Your answer is incorrect.
+The correct answer is: 64
+Question 14
+Not answered
+Marked out of 1.00
+Not flaggedFlag question
+Question text
+READ n=2
+FUNCTION fun(int n)
+IF(n == 4)
+return n;
+ELSE
+return 2*fun(n+1);
+Select one:
+
+a. 4
+
+b. Error
+
+c. 8
+
+d. 16
+Feedback
+Your answer is incorrect.
+The correct answer is: 16
